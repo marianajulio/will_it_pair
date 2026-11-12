@@ -1,0 +1,10 @@
+____    __    ____  __  .______    ______        _______.  _______  _______ 
+\   \  /  \  /   / |  | |   _  \  |      \      /       | /  _____||   ____|
+ \   \/    \/   /  |  | |  |_)  | `----)  |    |   (----`|  |  __  |  |__   
+  \            /   |  | |   ___/      /  /      \   \    |  | |_ | |   __|  
+   \    /\    /    |  | |  |         |__|   .----)   |   |  |__| | |  |____ 
+    \__/  \__/     |__| | _|          __    |_______/     \______| |_______|
+                                     (__)                                   
+
+Welcome to "Will it pair? Satellite galaxies edition"! (version 1.0)
+The program where we find if a pair of satellite galaxies should be that close by random chance (and look at its dynamical coherence)

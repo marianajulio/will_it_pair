@@ -4,7 +4,7 @@
 For a detailed description of the method, check the accompanying paper!
 
 ⚠️  If you use WIP?SGE, don't forget to cite the following papers:
-+ Code implementation - [Júlio et al. submitted]
++ Code implementation - [Júlio et al. submitted](https://arxiv.org/abs/2611.16687)
 + Original NN methodology - [Fattahi et al. 2013](https://ui.adsabs.harvard.edu/abs/2013MNRAS.431L..73F/abstract)
 + [Local Volume Database](https://github.com/apace7/local_volume_database) - [Pace 2025](https://ui.adsabs.harvard.edu/abs/2025OJAp....8E.142P/abstract)
 
